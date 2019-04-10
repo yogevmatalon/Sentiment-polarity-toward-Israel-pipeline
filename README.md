@@ -13,12 +13,12 @@ This github repository stores models code (model pipline) developed by Yogev Mat
 TBD
 
 ## How to use
-1. Verify you're using python 3
-2. Install relevant packages (pandas, matplotlib, sklearn)
+* Verify you're using python 3
+* Install relevant packages (pandas, matplotlib, sklearn, XGboost)
 
 ### Prediction with the given model
-1. Open through jupyter notebook online_pipline.ipynb
-2. Run code
+* Open through jupyter notebook online_pipline.ipynb
+* Run code
 
 ### Calibration
 TBD
