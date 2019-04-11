@@ -21,7 +21,11 @@ TBD
 * Run code
 
 ### Calibration
-TBD
+* Update entities, events dict and hashtags to your own needs
+* Replace labeled_data.csv and test.csv files with your trained data
+* Make sure you have emotion column (Watson tone analyzer extraction by IBM) - if not, set the emotion to False in configuration
+* If you don't have users metadata set the user fetures to False in configuration
+* Update configuration to your needs and run support-pipline.ipynb 
 
 ## Contact
 Laboratory for Epidemic, Modeling and Analysis (LEMA), Tel Aviv University, Israel
