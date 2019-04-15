@@ -18,6 +18,7 @@ TBD
 
 ### Prediction with the given model
 * Open through jupyter notebook online_pipline.ipynb
+* Read the data you would like to predict (data = pd.read_pickle('../../data/your_data.pickle'))
 * Run code
 
 ### Calibration
