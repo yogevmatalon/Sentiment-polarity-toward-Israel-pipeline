@@ -4,13 +4,13 @@ The model will determine whether the Tweet’s is relevant to Israel domain, and
 ## Overview
 The model predicts the relevanve to the domain (Relevant/Irrelevant) and classify the sentiment toward Israel (-1,0,1).
 
-* Relevance algorithm: add link to supplement
-* Political leaning algorithm: add link to supplement
+* Relevance algorithm: Transformation of Tweets’ Sentiment in Political Communication; The Inverted Opinion Phenomenon, Supplement 2, page: 32
+* Political leaning algorithm: Transformation of Tweets’ Sentiment in Political Communication; The Inverted Opinion Phenomenon, Supplement 3, page: 37
 
 This github repository stores models code (model pipline) developed by Yogev Matalon & Ofir Magdaci, MSc Candidates @ Tel Aviv University. 
 
 ## Published Results
-TBD
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465153
 
 ## How to use
 * Verify you're using python 3
